@@ -19,7 +19,7 @@ WorldInfo {
     ContactProperties {
       material1 "NAO foot material"
       coulombFriction [
-        7
+        1
       ]
       bounce 0.3
       bounceVelocity 0.003

@@ -661,8 +661,7 @@ PROTO NaoV6 [
       }
       DEF INERTIAL_UNIT InertialUnit {
         translation -0.008 0.006 0.029
-        rotation 1 0 0 1.5708
-        yAxis FALSE
+        zAxis FALSE
       }
       DEF US1 Transform {
         translation 0.0537 -0.0341 0.0698
